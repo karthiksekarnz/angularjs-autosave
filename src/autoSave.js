@@ -1,4 +1,4 @@
-angular.module('Fundoo.Directives.AutoSave', [])
+angular.module('angularjs-autosave', [])
   .directive('autoSave', ['$interval',
     function($interval) {
       return {
