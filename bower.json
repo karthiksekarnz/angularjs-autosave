@@ -1,6 +1,6 @@
 {
   "name": "angularjs-autosave",
-  "version": "1.0",
+  "version": "0.1.0",
   "homepage": "https://github.com/karthiksekarnz/angularjs-autosave",
   "description": "angularjs-autosave is a simple directive which gives power to your project so it can save data from any html form to database automatically.",
   "main": "src/autoSave.js",
